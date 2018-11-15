@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultDestination
+  Version="1"
+  Comment="This is my publish destination"
+  Host="ftp.myftpserver.com"
+  User="MyAccountId"
+  Password=""
+  Directory="C:\Users\lbalababa\Documents\My Projects\emptyJS"
+  Port=""
+  ViewUrl="http://www.madcapsoftware.com/"
+  Type="scm"
+  ProviderType="Git"
+  Database="C:\Users\lbalababa\Documents\My Projects\emptyJS\.git"
+  DatabaseRoot="C:\Users\lbalababa\Documents\My Projects\emptyJS"
+  PushToRemote="false"></CatapultDestination>
