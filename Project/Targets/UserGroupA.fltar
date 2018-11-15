@@ -14,7 +14,7 @@
     GenerateGlossaryProxy="true" />
   <Destinations>
     <Destination
-      Link="/Project/Destinations/Destination.fldes"
+      Link="/Project/Destinations/UserGroupA.fldes"
       Publish="true" />
   </Destinations>
 </CatapultTarget>

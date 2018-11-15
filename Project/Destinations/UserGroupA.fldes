@@ -5,11 +5,12 @@
   Host="ftp.myftpserver.com"
   User="MyAccountId"
   Password=""
-  Directory="C:\Users\lbalababa\Documents\My Projects\emptyJS"
+  Directory="C:\Users\lbalababa\Documents\My Projects\emptyJS\Published\UserGroupA"
   Port=""
   ViewUrl="http://www.madcapsoftware.com/"
   Type="scm"
   ProviderType="Git"
   Database="C:\Users\lbalababa\Documents\My Projects\emptyJS\.git"
   DatabaseRoot="C:\Users\lbalababa\Documents\My Projects\emptyJS"
-  PushToRemote="false"></CatapultDestination>
+  PushToRemote="true"
+  RemoteRepository="origin"></CatapultDestination>
